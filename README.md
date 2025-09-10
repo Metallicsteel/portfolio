@@ -34,5 +34,5 @@ I am passionate about using **Python, SQL, R, Tableau, and Excel** to turn raw d
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: [Your Profile](https://linkedin.com/in/Yahya-Mubaraki)  
-- GitHub: [USERNAME](https://github.com/Metallicsteel)  
+- LinkedIn: [Yahya-Mubaraki](https://linkedin.com/in/Yahya-Mubaraki)  
+- GitHub: [Metallicsteel](https://github.com/Metallicsteel)  
