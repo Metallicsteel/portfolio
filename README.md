@@ -1,47 +1,55 @@
 # 📊 Data Analytics Portfolio — Yahya Mubaraki  
 
 Welcome to my GitHub portfolio!  
-I am a **Business & Marketing student** at The Open University (UK) and a graduate of the **Google Data Analytics Professional Certificate**.  
+I am a **Business & Marketing student at The Open University (UK)** and a graduate of the **Google Data Analytics Professional Certificate**.  
 I am passionate about using **Python, SQL, R, Tableau, and Excel** to turn raw data into actionable insights.  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### [Hotel Bookings Analysis](https://github.com/Metallicsteel/google-data-analytics-capstone)  
-- End-to-end analysis of **119,000+ hotel booking records**.  
-- Tools: Python (Pandas, Matplotlib, NumPy), Google Colab.  
-- Deliverables: Jupyter Notebook, visualizations (cancellation rates, ADR trends).  
-- Key insights:  
+### [Google Data Analytics Capstone: Hotel Bookings Analysis](https://github.com/Metallicsteel/google-data-analytics-capstone)  
+An end-to-end analysis of 119k+ hotel booking records.  
+- **Tools:** Python (Pandas, Matplotlib, NumPy), Google Colab, GitHub  
+- **Process:** Data cleaning, feature engineering, exploratory analysis, visualizations.  
+- **Visualizations:** Cancellation rates by deposit type & market segment, ADR trends by month.  
+- **Deliverables:** Jupyter Notebook, charts, business insights.  
+- **Key Insights:**  
   - Non-refundable deposits strongly increase cancellation rates.  
-  - Online TA & Group bookings show higher cancellation rates.  
-  - ADR peaks in summer months (July–August).  
-
-### [Liverpool Crime & Safety Analysis (2022–2025)](https://github.com/Metallicsteel/liverpool-crime-analysis)  
-- Analysis of **200k+ crime records** from Merseyside Police.  
-- Tools: Python (Pandas, Matplotlib, Folium), Tableau, Excel.  
-- Deliverables: Jupyter Notebook, PDF report, interactive map, Tableau Dashboard.  
-- Key insights:  
-  - Seasonal peaks in crime (summer months).  
-  - Theft, violence, and anti-social behaviour dominate incident types.  
-  - Hotspots in Central Liverpool (L1) and Toxteth (L8).  
+  - Online TA and Group bookings have higher cancellation rates.  
+  - ADR peaks during the summer months (July–August).  
 
 ---
 
 ## 🛠 Skills & Tools  
-- **Programming & Analysis**: Python, R, SQL  
-- **Visualization**: Tableau, Power BI, Excel, Google Sheets  
-- **Data Handling**: Data Cleaning, Transformation, Reporting  
-- **Other**: GitHub portfolio management, Business & Marketing  
+
+- **Programming & Analysis:** Python (Pandas, Matplotlib, NumPy), SQL, R  
+- **Visualization:** Tableau, Power BI, Excel, Google Sheets  
+- **Data Handling:** Data Cleaning, Transformation, Reporting  
+- **Other:** GitHub for portfolio management, Business & Marketing knowledge  
 
 ---
 
 ## 📜 Certifications  
-- Google Data Analytics Professional Certificate  
-- BSc Business & Marketing — Open University (UK)  
+
+- 🎓 **Google Data Analytics Professional Certificate (Coursera, 2025)**  
+  Verified on [Coursera](https://coursera.org/verify/89L2WP2WAAU)  
+  *Covers:* Data cleaning, analysis, visualization, SQL, R, Tableau, and case study projects.  
+
+- 🎓 **Business & Marketing (The Open University, UK)**  
+  Ongoing undergraduate degree with focus on business management and marketing analytics.  
 
 ---
 
-## 🌐 Connect with Me  
-- [Yahya-Mubaraki](https://linkedin.com/in/Yahya-Mubaraki)  
-- [Metallicsteel](https://github.com/Metallicsteel)  
+## 🏆 Achievements  
+
+- Completed the **Google Data Analytics Certificate** (9 courses) in under **7 months** while working full-time.  
+- Built end-to-end portfolio projects combining **business knowledge** with **data analytics skills**.  
+- Actively documenting learning journey on GitHub to showcase growth and consistency.  
+
+---
+
+## 🤝 Connect with Me  
+
+- 🔗 [LinkedIn: Yahya Mubaraki](https://www.linkedin.com/in/yahya-mubaraki)
+- 🐙 [GitHub: Metallicsteel](https://github.com/Metallicsteel)  
